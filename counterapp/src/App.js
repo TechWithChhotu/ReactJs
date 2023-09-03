@@ -1,6 +1,6 @@
 import { useState } from "react";
 function App() {
-  // ===========>>>>>>>>>>>USE STATE HOOK<<<<<<<<<=============
+  // ===========>>>>>>>>>>>USE STATE HOOK-<<<<<<<<<=============
   const [couter, setCouter] = useState(10);
 
   const insreaseValue = () => {
